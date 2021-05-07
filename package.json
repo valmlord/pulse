@@ -1,7 +1,6 @@
 {
   "name": "pulse",
   "version": "1.0.0",
-  "description": "",
   "main": "gulpfile.js",
   "homepage": "https://valmlord.github.io/projects/pulse",
   "scripts": {
@@ -25,5 +24,14 @@
     "> 1%",
     "maintained node versions",
     "not dead"
-  ]
+  ],
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valmlord/pulse.git"
+  },
+  "bugs": {
+    "url": "https://github.com/valmlord/pulse/issues"
+  },
+  "description": ""
 }
